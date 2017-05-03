@@ -3,6 +3,7 @@ Site de dessin fait en 7 heures.
 
 
 # Un site codé avec les pieds, par des pieds, pour des pieds.
+# et j'ai oublié de faire un vrai cahier des charges !
 
 Fichier SQL inclus.
 
